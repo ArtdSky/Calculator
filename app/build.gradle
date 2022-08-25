@@ -34,6 +34,7 @@ android {
 
 dependencies {
 
+    implementation "androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.0-alpha01"
 
     implementation 'net.objecthunter:exp4j:0.4.8'
 
